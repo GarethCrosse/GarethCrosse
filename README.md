@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @GarethCrosse
-- 👀 I’m interested in game design. Otherwise, I love philosophy, literature, and all things Canadian.
+- 👀 I’m interested in Game Dev. Otherwise, I love philosophy, literature, and all things Canadian.
 - 🌱 I’m currently learning HTML, JS, and CSS
 - 📫 How to reach me at: garethcrosse[at]protonmail[dot]com
